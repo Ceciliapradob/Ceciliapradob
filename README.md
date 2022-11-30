@@ -1,16 +1,16 @@
-### Hola 👋
+### Hola 👋 
 <h1 align="center">Hola 👋, soy Cecilia Prado</h1>
-<h3 align="center">Desarrollador de Soy Front End</h3>
+<h3 align="center">Soy Front End Developer, me recibió recién de la UTN</h3>
 
-<p align="left"> <a href="https ://github.com/ryo-ma/github-profile-trofeo"><img src="https://github-perfil-trofeo.vercel.app/?username=ceciliapradob" alt="ceciliapradob" />< /a> </p>
+<p align="left" > <a href="https://github.com/ryo-ma/github-profile-trofeo"><img src="https://github-perfil-trofeo.vercel.app/?username=ceciliapradob" alt ="ceciliapradob" /></a> </p>
 
 - 🔭 Actualmente trabajo en el proyecto [Landing Page Venicrea](https://github.com/Ceciliapradob/LandingPage-Coder.git)
 
-- 👨‍💻 Todos mis proyectos están disponibles en [https: //github.com/Ceciliapradob](https://github.com/Ceciliapradob)
+- 👨‍💻 All of my los proyectos están disponibles en [https://github.com/Ceciliapradob](https://github.com/Ceciliapradob)
 
 - 📫 Cómo contactarme **ceciliapradob0799@gmail.com**
 
-- 📄 Conoce mis experiencias [https://www.linkedin.com /en/carmen-prado-29601521b/](https://www.linkedin.com/in/carmen-prado-29601521b/)
+- 📄 Conoce mis experiencias [https: //www.linkedin.com/en/carmen-prado-29601521b/](https://www.linkedin.com/en/carmen-prado-29601521b/)
 
 - ⚡ Dato curioso **Me gusta seguir aprendiendo y soy muy curiosa**
 
