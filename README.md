@@ -1,4 +1,3 @@
-### Hola 👋 
 <h1 align="center">Hola 👋, soy Cecilia Prado</h1>
 <h3 align="center">Soy Front End Developer, me recibió recién de la UTN</h3>
 
