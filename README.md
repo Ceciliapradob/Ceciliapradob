@@ -1,30 +1,26 @@
 <h1 align="center">Hola 👋, soy Cecilia Prado</h1>
-<h3 align="center">Soy Front End Developer, me recibió recién de la UTN</h3>
+<h3 align="center">Soy desarrolladora front end developer</h3>
 
-<p align="left" > <a href="https://github.com/ryo-ma/github-profile-trofeo"><img src="https://github-perfil-trofeo.vercel.app/?username=ceciliapradob" alt ="ceciliapradob" /></a> </p>
+<p align="left"> <a href=" https://github.com/ryo-ma/github-profile-trofeo"><img src="https://github-perfil-trofeo.vercel.app/?username=ceciliapradob" alt="ceciliapradob" /> </a> </p>
 
-- 🔭 Actualmente trabajo en el proyecto [Landing Page Venicrea](https://github.com/Ceciliapradob/LandingPage-Coder.git)
+- 🔭 Actualmente estoy trabajando en [Landing Page](https://github.com/Ceciliapradob/LandingPage-Coder)
 
-- 👨‍💻 All of my los proyectos están disponibles en [https://github.com/Ceciliapradob](https://github.com/Ceciliapradob)
+- 👨‍💻 Todos mis proyectos están disponibles en [https:/ /github.com/Ceciliapradob?tab=repositories](https://github.com/Ceciliapradob?tab=repositories)
 
 - 📫 Cómo contactarme **ceciliapradob0799@gmail.com**
 
-- 📄 Conoce mis experiencias [https: //www.linkedin.com/en/carmen-prado-29601521b/](https://www.linkedin.com/en/carmen-prado-29601521b/)
+- ⚡ Dato curioso **Me gusta el trabajo en equipo**
 
-- ⚡ Dato curioso **Me gusta seguir aprendiendo y soy muy curiosa**
-
-<h3 align="left">Conéctate conmigo:</h3>
-<p align="left">
-<a href="https://linkedin .com/in/carmenprado" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons /Social/linked-in-alt.svg" alt="carmenprado" height="30" width="40" /></a>
-<a href="https://fb.com/ceciliaprado" target=" blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt=" ceciliaprado" altura="30"ancho="40" /></a>
-<a href="https://instagram.com/cecilinn_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator /master/src/images/icons/Social/instagram.svg" alt="cecilinn_" height="30" width="40" /></a>
-<a href="https://discord.gg/Cecii #3089" target="en blanco"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord .svg" alt="Cecii#3089" height="30" width="40" /></a>
+<h3 align="izquierda">Conéctate conmigo:</h3>
+<p align="izquierda">
+<a href="https://linkedin.com/in/carmen cecilia prado barreto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github- profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="carmen cecilia prado barreto" height="30" width="40" /></a>
+<a href="https://instagram.com/cecilinn_" target="en blanco"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master /src/images/icons/Social/instagram.svg" alt="cecilinn_" height="30" width="40" /></a>
+<a href="https://discord.gg/#3089" target="en blanco"><img align="center"src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#3089" height="30" width= "40" /></a>
 </p>
 
 <h3 align="left">Idiomas y herramientas:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent. com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https:// www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark .svg" alt="html5" ancho="40" altura="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target=" _blank" rel="noremitente"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="ilustrador" ancho="40" altura="40"/> </a> <a href ="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/ devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" objetivo ="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="reaccionar" ancho="40" altura="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https: //reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://sass-lang.com" target= "_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" altura="40"/> </a> </p>dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master /icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master /icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original. svg" alt="sass" ancho="40" altura="40"/> </a> </p>https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original. svg" alt="sass" ancho="40" altura="40"/> </a> </p>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent. com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https:// www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark .svg" alt="html5" ancho="40" altura="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" destino ="_en blanco" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/ > </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master /icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target= "_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon /master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ceciliapradob&show_icons=true&locale=en&layout=compact" alt="ceciliapradob" /> </p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ceciliapradob&show_icons=true&locale=en&layout=compact" alt="ceciliapradob" /> </p>
 
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=ceciliapradob&show_icons=true&locale=en" alt="ceciliapradob" /> </p>
 
