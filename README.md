@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ceciliapradob" alt="ceciliapradob" /></a> </p>
 
-- 🔭 Actualmente trabajo en el proyecto [Landing Page Venicrea](https://github.com/Ceciliapradob/LandingPage-Coder.git)
+- 🔭 Actualmente trabajo como docente [UTN](https://www.linkedin.com/in/cecilia-prado-29601521b/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ceciliapradob](https://github.com/Ceciliapradob)
 
@@ -27,5 +27,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ceciliapradob&show_icons=true&locale=en&layout=compact" alt="ceciliapradob" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ceciliapradob&show_icons=true&locale=en" alt="ceciliapradob" /></p>
+
 
 
