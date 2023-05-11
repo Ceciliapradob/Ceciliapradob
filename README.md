@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Cecilia Prado</h1>
-<h3 align="center">Soy Front End developer, me recibí recién de la UTN</h3>
+<h3 align="center">Soy docente en front end developer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ceciliapradob" alt="ceciliapradob" /></a> </p>
 
