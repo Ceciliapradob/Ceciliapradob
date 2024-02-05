@@ -13,15 +13,15 @@
 # 💫Sobre mi :
 🔭 Docente en full stack developer en la universidad nacional tecnologica (UTN) 
   
-🌱 + 2 años de experiencia en páginas web
+💻 + 2 años de experiencia en páginas web
 
   👯 Excelente comunicación en equipo
 
-  🤔 Manejo diversas tecnologicas 
+  👩🏻‍💻 Manejo diversas tecnologicas 
 
   💬 Si quieres conocer más👇
 
-  📫 Para contacto laboral:  
+  📩 Para contacto laboral:  
   Mail  "ceciliapradob0799@gmail.com" 
   También podrás conseguirme a traves de mis redes 👇
 
