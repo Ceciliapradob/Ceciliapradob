@@ -50,7 +50,7 @@
 
 
 ### ✍️Random Dev Quote
-![](file:///C:/Users/cecil/Downloads/BLACK%20FRIDAY.pdf)
+![]([file:///C:/Users/cecil/Downloads/BLACK%20FRIDAY.pdf](https://www.canva.com/design/DAFVPWT0aaY/waJavqe55-M5M2wKDApxkA/watch?utm_content=DAFVPWT0aaY&utm_campaign=designshare&utm_medium=link&utm_source=editor)https://www.canva.com/design/DAFVPWT0aaY/waJavqe55-M5M2wKDApxkA/watch?utm_content=DAFVPWT0aaY&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 
 </div>
