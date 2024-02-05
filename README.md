@@ -3,7 +3,7 @@
 
 
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="[https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge](https://www.google.com/url?sa=i&url=https%3A%2F%2Fplaygroundai.com%2Fsearch%3Fq%3Duna%2Bchica%2Bprogramando%2Ben%2Bun%2Bescritorio%2Banime%2Ba%2Blos%2Bbordes%2Bblanco&psig=AOvVaw0HJaUCrGcy1cHP8pm_mDgk&ust=1707234182390000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNDWmIrFlIQDFQAAAAAdAAAAABAE)" alt="" /></a> </p>
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="![BLACK FRIDAY](https://github.com/Ceciliapradob/Ceciliapradob/assets/93287874/1a035617-7fbb-4c54-a575-bba1057601da)" alt="" /></a> </p>
 
 🌱 **Full stack developer**
 <img align="right" alt="Coding" width="300" src="[https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif](https://www.canva.com/design/DAFVPWT0aaY/waJavqe55-M5M2wKDApxkA/watch?utm_content=DAFVPWT0aaY&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel)">
