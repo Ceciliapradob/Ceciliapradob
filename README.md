@@ -21,11 +21,11 @@
 
   💬 Si quieres conocer más👇
 
-  📩 Para contacto laboral:  
-  Mail  "ceciliapradob0799@gmail.com" 
-  También podrás conseguirme a traves de mis redes 👇
-
 ⚡ Proyecto en el que estoy trabajando ahora => https://github.com/Ceciliapradob/Lista_De_Empleados/tree/main
+   📩 Para contacto laboral:  
+   Mail  "ceciliapradob0799@gmail.com" 
+   También podrás conseguirme a traves de mis redes 👇
+
 
 ## 🌐 <h3>Connect with me:</h3>
 <p align="left">
