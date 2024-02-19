@@ -25,8 +25,7 @@
   Mail  "ceciliapradob0799@gmail.com" 
   También podrás conseguirme a traves de mis redes 👇
 
-⚡ Fun fact: 7 out of 10 consumers find a company via the blog
- Proyecto en el que estoy trabajando ahora => https://github.com/Ceciliapradob/Lista_De_Empleados/tree/main
+⚡ Proyecto en el que estoy trabajando ahora => https://github.com/Ceciliapradob/Lista_De_Empleados/tree/main
 
 ## 🌐 <h3>Connect with me:</h3>
 <p align="left">
