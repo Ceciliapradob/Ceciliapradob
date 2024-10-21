@@ -64,14 +64,6 @@
 
 ---
 
-## 🏆 Trofeos y Logros:
-
-<p align="center">
-  <a href="https://github.com/Ceciliapradob">
-    <img src="https://github-profile-trophy.vercel.app/?username=Ceciliapradob&theme=juicyfresh&no-frame=true&row=1&column=6" alt="github-trofeos" />
-  </a>
-</p>
-
 ---
 
 ## 📊 GitHub Stats:
