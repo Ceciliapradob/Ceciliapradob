@@ -1,5 +1,6 @@
 <h1 align="center">👋 ¡Hola! Soy Cecilia Prado</h1>
-<h3 align="center">Desarrolladora Full Stack & Docente en UTN</h3>
+<h3 align="center">Profesional en Desarrollo Web & Docente en UTN</h3>
+<h4 align="center">Mi enfoque está destinado en un gran porcentaje hacia el FrontEnd</h4>
 
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> 
@@ -10,11 +11,10 @@
 
 ## 🌟 Sobre mí:
 
-- 🔭 Docente en la Universidad Tecnológica Nacional (UTN) enseñando desarrollo full stack.
-- 💻 Más de 2 años de experiencia en desarrollo web.
+- 🔭 Docente en la Universidad Tecnológica Nacional (UTN)..
+- 💻 2 años de enseñanza sobre Desarrollo Web full stack.
 - 👯 Trabajo en equipo con excelente comunicación.
 - 👩🏻‍💻 Manejo de diversas tecnologías frontend y backend.
-- ⚡ Actualmente trabajando en mi proyecto: [Lista de Empleados](https://github.com/Ceciliapradob/Lista_De_Empleados/tree/main)
 - 📩 Contacto laboral: **ceciliapradob0799@gmail.com**
 
 ---
@@ -24,7 +24,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/cecilia-prado-29601521b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" /></a>
   <a href="https://instagram.com/lachicadelcodigoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" /></a>
-  <a href="https://www.tiktok.com/@lachicadelcodigoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/tiktok.svg" alt="TikTok" height="40" width="40" /></a>
+  <a href="https://www.tiktok.com/@lachicadelcodigoo" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/en/6/69/Tiktok_logo.svg" alt="TikTok" height="40" width="40" /></a>
   <a href="https://www.youtube.com/@lachicadelcodigoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="40" width="40" /></a>
 </p>
 
