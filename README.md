@@ -1,5 +1,6 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ceciliapradob&show_icons=true&theme=radical)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ceciliapradob&layout=compact)
 
 
 <h1 align="center">👋 ¡Hola! Soy Cecilia Prado</h1>
