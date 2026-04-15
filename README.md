@@ -1,3 +1,7 @@
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ceciliapradob&show_icons=true&theme=radical)
+
+
+
 <h1 align="center">👋 ¡Hola! Soy Cecilia Prado</h1>
 <h3 align="center">Profesional en Desarrollo Web & Docente en UTN</h3>
 <h4 align="center">Mi enfoque está destinado en un gran porcentaje hacia el FrontEnd</h4>
