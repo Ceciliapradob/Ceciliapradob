@@ -2,6 +2,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ceciliapradob&layout=compact)
 
+![GitHub Streak](https://streak-stats.demolab.com/?user=ceciliapradob)
+
 
 <h1 align="center">👋 ¡Hola! Soy Cecilia Prado</h1>
 <h3 align="center">Profesional en Desarrollo Web & Docente en UTN</h3>
