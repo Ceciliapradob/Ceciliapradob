@@ -4,6 +4,8 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=ceciliapradob)
 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F70000&lines=Frontend+Developer;React+Lover;Always+Learning)
+
 
 <h1 align="center">👋 ¡Hola! Soy Cecilia Prado</h1>
 <h3 align="center">Profesional en Desarrollo Web & Docente en UTN</h3>
